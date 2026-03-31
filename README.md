@@ -207,6 +207,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Meilisearch](https://github.com/meilisearch/meilisearch-mcp)** - Interact & query with Meilisearch (Full-text & semantic search API)
 - **[Mercado Libre](https://mcp.mercadolibre.com/)** - Mercado Libre's official MCP server, offering tools to interact with our marketplace, simplifying tasks and product integration.
 - **[Mercado Pago](https://mcp.mercadopago.com/)** - Mercado Pago's official MCP server, offering tools to interact with our API, simplifying tasks and product integration.
+- **[MERX](https://github.com/Hovsteder/merx-mcp)** - TRON resource exchange for AI agents. 52 tools for energy trading, token transfers, DEX swaps, and on-chain queries across all TRON energy providers.
 - **[Metoro](https://github.com/metoro-io/metoro-mcp-server)** - Query and interact with kubernetes environments monitored by Metoro
 - **[Milvus](https://github.com/zilliztech/mcp-server-milvus)** - Search, Query and interact with data in your Milvus Vector Database.
 - **[MotherDuck](https://github.com/motherduckdb/mcp-server-motherduck)** - Query and analyze data with MotherDuck and local DuckDB
